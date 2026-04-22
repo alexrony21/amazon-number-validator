@@ -8,7 +8,7 @@
 
 * **Global Reach:** Full support for phone numbers from all countries.
 * **High Accuracy:** Advanced validation logic to ensure precise results.
-* **Proxy Integration:** Built-in support for multiple proxy types to ensure anonymity and bypass rate limits.
+* **Proxy Integration:** Built-in support for multiple proxy types to ensure perfectly checking.
 * **Multiprocessing:** Leverages multi-core processing for ultra-fast, concurrent validation.
 * **Unlimited Usage:** No restrictions on the volume of numbers you can validate.
 
