@@ -1,6 +1,6 @@
 ## Amazon Number Validator
 
-![Amazon Number Validator](https://raw.githubusercontent.com/alexrony21/amazon-number-validator/refs/heads/main/amazon-number-checker.png)
+![Amazon Number Validator](https://raw.githubusercontent.com/alexrony21/amazon-number-validator/refs/heads/main/amazon-number-checker-github.png)
 
 ---
 
